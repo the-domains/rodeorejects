@@ -1,7 +1,7 @@
 name: RodeoRejects
 favicon: null
-layout_spectrum: 0.2418175172060728
-typography_spectrum: 0.7570605021901429
+layout_spectrum: 1
+typography_spectrum: 0.48905
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.6340460535138845
-  lightness: 0.899800592334941
-  saturation: 0.1405350889544934
-  rhythmicContrast: 0.21857714070938528
+  brandStrength: 1
+  lightness: 0.875
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []

@@ -1,0 +1,28 @@
+name: RodeoRejects
+favicon: null
+layout_spectrum: 0.2418175172060728
+typography_spectrum: 0.7570605021901429
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6340460535138845
+  lightness: 0.899800592334941
+  saturation: 0.1405350889544934
+  rhythmicContrast: 0.21857714070938528
+purpose: []

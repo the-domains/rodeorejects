@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[RodeoRejects]]></title>
         <description><![CDATA[RodeoRejects]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rodeorejects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 03:47:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Jan 2016 03:51:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rodeorejects/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rodeo Rejects]]></title>
+            <description><![CDATA[<article><h1>Rodeo Rejects</h1><p>Pete & RePete</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/087132ac75788a544882cce8289331701cd15e8b.png"></article>]]></description>
+            <link>https://thegrid.ai/rodeorejects/9b57beb8-7098-4489-828d-af09798a2fef/index.html</link>
+            <guid isPermaLink="false">9b57beb8-7098-4489-828d-af09798a2fef</guid>
+            <pubDate>Wed, 20 Jan 2016 03:51:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/080e06f7-5dda-4af3-9505-ec8b6c11fc2a.jpg">]]></description>
-            <link>undefined8716ded5-2faa-4a8f-8e2f-2f645b0efddc/index.html</link>
+            <link>https://thegrid.ai/rodeorejects/8716ded5-2faa-4a8f-8e2f-2f645b0efddc/index.html</link>
             <guid isPermaLink="false">8716ded5-2faa-4a8f-8e2f-2f645b0efddc</guid>
             <pubDate>Wed, 20 Jan 2016 03:47:54 GMT</pubDate>
         </item>
